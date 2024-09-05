@@ -1,9 +1,7 @@
 
 
 # 👋 Hi, I'm Joseph!
-🎓 I’m currently working towards my Bachelor of Computer Science degree at the University of Victoria<br>
-🤝 I’m looking to collaborate with innovative and exciting companies through my Co-op program<br>
-🌱 I’m currently learning both C# and JavaScript<br>
+🎓 I’m currently working towards my Bachelor of Science degree at the University of British Columbia<br>
 
 # 🌐 Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Joseph-Priatel) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/Constallations) 
